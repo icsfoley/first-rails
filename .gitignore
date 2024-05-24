@@ -33,3 +33,10 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+
+
+# steve
+Thumbs.db
+.DS_Store
+*.sw[a-p]
